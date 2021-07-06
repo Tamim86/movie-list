@@ -1,0 +1,50 @@
+form{
+    width: 40%;
+}
+
+
+.label{
+    width: 300px;
+}
+
+#display{
+    width: 30%;
+    position: relative;
+    left: 600px;
+    bottom: 70px;
+}
+
+#movlist{
+    background-color: #A2DBFA;
+}
+
+table{
+    border-collapse: collapse;
+
+}
+
+th, tr{
+    border: 1px solid;
+}
+
+td{
+    background-color: #77ACF1;
+    color: 77ACF1;
+    border: 1px solid;
+}
+
+h1{
+   
+    text-align: center;
+    padding: 20px;
+}
+nav{
+    background-color: #39A2DB;
+
+    
+}
+
+#footer{
+    background-color: #77ACF1;
+    text-align: center;
+}
